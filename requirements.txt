@@ -1,0 +1,8 @@
+openai==0.28.1
+tiktoken==0.5.1
+langchain==0.0.329
+# openai_function_call==0.2.0
+python-dotenv==1.0.0
+pandas==2.1.2
+llama-index==0.8.58
+unstructured==0.10.28
